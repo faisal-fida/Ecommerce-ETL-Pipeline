@@ -1,318 +1,455 @@
 [
     {
-        "objectID":132948394,
-        "URL":"https://www.thredup.com/product/women-cotton-lucky-brand-jeans-blue-jeans/132948394",
-        "Item #":132948394,
+        "objectID":138338428,
+        "URL":"https://www.thredup.com/product/women-cotton-good-american-jeans-blue-jeans/138338428",
+        "Item #":138338428,
+        "Name":"women-cotton-good-american-jeans-blue-jeans",
+        "Images":[
+            "https://cf-assets-thredup.thredup.com/assets/466335633/retina.jpg",
+            "https://cf-assets-thredup.thredup.com/assets/466335693/retina.jpg"
+        ],
+        "Price":60.99,
+        "Brand":"Good American",
+        "Size":"00",
+        "Size Category":null,
+        "Inseam Measurement (Inches)":31.0,
+        "Rise Measurement (Inches)":10.75,
+        "Waist Measurement (Inches)":25.0,
+        "Rise":"high rise",
+        "Pant Cut":"boyfriend",
+        "Condition":"Excellent",
+        "New with Tags":false,
+        "Color":[
+            "Blue"
+        ],
+        "Jean Wash":[
+            "dark wash"
+        ],
+        "Number Favorites":45,
+        "Material":[
+            "91% Cotton",
+            "5% Polyester",
+            "4% Elastane"
+        ],
+        "Pattern":[
+            "solid"
+        ],
+        "Accents":[],
+        "Tags":[
+            "boho"
+        ],
+        "SellThroughScore":0.840971,
+        "SearchTags":[
+            "women-jeans",
+            "women-jeans-boyfriend",
+            "women-jeans-flare",
+            "women-jeans-high-waisted"
+        ]
+    },
+    {
+        "objectID":133810209,
+        "URL":"https://www.thredup.com/product/women-cotton-lucky-brand-jeans-blue-jeans/133810209",
+        "Item #":133810209,
         "Name":"women-cotton-lucky-brand-jeans-blue-jeans",
         "Images":[
-            "https://cf-assets-thredup.thredup.com/assets/435204447/retina.jpg",
-            "https://cf-assets-thredup.thredup.com/assets/435204470/retina.jpg"
+            "https://cf-assets-thredup.thredup.com/assets/441413265/retina.jpg",
+            "https://cf-assets-thredup.thredup.com/assets/441413313/retina.jpg"
         ],
-        "Price":26.99,
+        "Price":27.99,
         "Brand":"Lucky Brand",
-        "Size":" 2 - 26",
+        "Size":"4",
+        "Size Category":"Petite",
+        "Inseam Measurement (Inches)":23.0,
+        "Rise Measurement (Inches)":6.25,
+        "Waist Measurement (Inches)":28.5,
+        "Rise":"low rise",
+        "Pant Cut":"straight leg",
+        "Condition":"Very Good",
+        "New with Tags":false,
+        "Color":[
+            "Blue"
+        ],
+        "Jean Wash":[
+            "dark wash"
+        ],
+        "Number Favorites":14,
+        "Material":[
+            "89% Cotton",
+            "9% Polyester",
+            "2% Elastane"
+        ],
+        "Pattern":[
+            "solid"
+        ],
+        "Accents":[
+            "whiskering"
+        ],
+        "Tags":[
+            "boho",
+            "whiskering"
+        ],
+        "SellThroughScore":0.37332,
+        "SearchTags":[
+            "women-jeans",
+            "women-jeans-capri",
+            "women-jeans-straight-leg"
+        ]
+    },
+    {
+        "objectID":123555973,
+        "URL":"https://www.thredup.com/product/women-cotton-topshop-jeans-black-jeans/123555973",
+        "Item #":123555973,
+        "Name":"women-cotton-topshop-jeans-black-jeans",
+        "Images":[
+            "https://cf-assets-thredup.thredup.com/assets/401775380/retina.jpg",
+            "https://cf-assets-thredup.thredup.com/assets/401775429/retina.jpg"
+        ],
+        "Price":10.99,
+        "Brand":"Topshop",
+        "Size":"26 Waist",
+        "Size Category":null,
+        "Inseam Measurement (Inches)":24.75,
+        "Rise Measurement (Inches)":11.75,
+        "Waist Measurement (Inches)":29.5,
+        "Rise":"high rise",
+        "Pant Cut":"flared leg",
+        "Condition":"Very Good",
+        "New with Tags":false,
+        "Color":[
+            "Black"
+        ],
+        "Jean Wash":[],
+        "Number Favorites":41,
+        "Material":[
+            "99% Cotton",
+            "1% Elastane"
+        ],
+        "Pattern":[
+            "solid"
+        ],
+        "Accents":[],
+        "Tags":[
+            "boho"
+        ],
+        "SellThroughScore":0.470697,
+        "SearchTags":[
+            "women-jeans",
+            "women-jeans-capri",
+            "women-jeans-flare",
+            "women-jeans-high-waisted"
+        ]
+    },
+    {
+        "objectID":125292537,
+        "URL":"https://www.thredup.com/product/women-cotton-chico-s-jeans-tan-jeans/125292537",
+        "Item #":125292537,
+        "Name":"women-cotton-chico-s-jeans-tan-jeans",
+        "Images":[
+            "https://cf-assets-thredup.thredup.com/assets/409277408/retina.jpg",
+            "https://cf-assets-thredup.thredup.com/assets/409277419/retina.jpg"
+        ],
+        "Price":9.99,
+        "Brand":"Chico's",
+        "Size":"XS (00)",
         "Size Category":"Petite",
         "Inseam Measurement (Inches)":27.0,
-        "Rise Measurement (Inches)":10.0,
-        "Waist Measurement (Inches)":30.0,
+        "Rise Measurement (Inches)":8.5,
+        "Waist Measurement (Inches)":26.0,
         "Rise":"mid-reg rise",
-        "Pant Cut":"skinny leg",
-        "Condition":"Very Good",
-        "New with Tags":false,
-        "Color":"['Blue']",
-        "Jean Wash":"['medium wash']",
-        "Number Favorites":8,
-        "Material":"['88% Cotton', '12% Polyester']",
-        "Pattern":"['solid']",
-        "Accents":"['whiskering']",
-        "Tags":[
-            "classic",
-            "nan",
-            "whiskering"
-        ]
-    },
-    {
-        "objectID":133129261,
-        "URL":"https://www.thredup.com/product/women-fabric-rag-bone-jeans-black-jeans/133129261",
-        "Item #":133129261,
-        "Name":"women-fabric-rag-bone-jeans-black-jeans",
-        "Images":[
-            "https://cf-assets-thredup.thredup.com/assets/371461534/retina.jpg",
-            "https://cf-assets-thredup.thredup.com/assets/371461580/retina.jpg"
-        ],
-        "Price":39.99,
-        "Brand":"Rag & Bone",
-        "Size":"31 Waist",
-        "Size Category":null,
-        "Inseam Measurement (Inches)":29.0,
-        "Rise Measurement (Inches)":8.0,
-        "Waist Measurement (Inches)":28.0,
-        "Rise":"low rise",
-        "Pant Cut":"boot leg",
-        "Condition":"Very Good",
-        "New with Tags":false,
-        "Color":"['Black', 'Gray']",
-        "Jean Wash":"[]",
-        "Number Favorites":43,
-        "Material":"['No Fabric Content']",
-        "Pattern":"['solid']",
-        "Accents":"[]",
-        "Tags":[
-            "nan",
-            "nan"
-        ]
-    },
-    {
-        "objectID":129077147,
-        "URL":"https://www.thredup.com/product/women-cotton-rag-bone-jean-jeans-blue-jeans/129077147",
-        "Item #":129077147,
-        "Name":"women-cotton-rag-bone-jean-jeans-blue-jeans",
-        "Images":[
-            "https://cf-assets-thredup.thredup.com/assets/425333230/retina.jpg",
-            "https://cf-assets-thredup.thredup.com/assets/425333171/retina.jpg"
-        ],
-        "Price":32.99,
-        "Brand":"Rag & Bone/JEAN",
-        "Size":"28 Waist",
-        "Size Category":null,
-        "Inseam Measurement (Inches)":30.75,
-        "Rise Measurement (Inches)":11.75,
-        "Waist Measurement (Inches)":34.0,
-        "Rise":"high rise",
-        "Pant Cut":"skinny leg",
-        "Condition":"Very Good",
-        "New with Tags":false,
-        "Color":"['Blue']",
-        "Jean Wash":"['dark wash']",
-        "Number Favorites":25,
-        "Material":"['69% Cotton', '29% Polyester', '2% Polyurethane']",
-        "Pattern":"['solid']",
-        "Accents":"['frayed edges', 'fringe & frayed accents']",
-        "Tags":[
-            "boho",
-            "nan",
-            "frayed edges ,  fringe & frayed accents"
-        ]
-    },
-    {
-        "objectID":132314989,
-        "URL":"https://www.thredup.com/product/women-cotton-j-crew-jeans-black-jeans/132314989",
-        "Item #":132314989,
-        "Name":"women-cotton-j-crew-jeans-black-jeans",
-        "Images":[
-            "https://cf-assets-thredup.thredup.com/assets/411892498/retina.jpg",
-            "https://cf-assets-thredup.thredup.com/assets/411892682/retina.jpg"
-        ],
-        "Price":19.99,
-        "Brand":"J.Crew",
-        "Size":"31 Waist",
-        "Size Category":"Petite",
-        "Inseam Measurement (Inches)":27.5,
-        "Rise Measurement (Inches)":11.75,
-        "Waist Measurement (Inches)":30.5,
-        "Rise":"high rise",
-        "Pant Cut":"skinny leg",
-        "Condition":"Excellent",
-        "New with Tags":false,
-        "Color":"['Black']",
-        "Jean Wash":"['distressed']",
-        "Number Favorites":8,
-        "Material":"['93% Cotton', '5% Polyester', '2% Elastane']",
-        "Pattern":"['solid']",
-        "Accents":"[]",
-        "Tags":[
-            "boho",
-            "nan"
-        ]
-    },
-    {
-        "objectID":128592928,
-        "URL":"https://www.thredup.com/product/women-cotton-guess-jeans-blue-jeans/128592928",
-        "Item #":128592928,
-        "Name":"women-cotton-guess-jeans-blue-jeans",
-        "Images":[
-            "https://cf-assets-thredup.thredup.com/assets/400777998/retina.jpg",
-            "https://cf-assets-thredup.thredup.com/assets/400778032/retina.jpg"
-        ],
-        "Price":12.99,
-        "Brand":"Guess",
-        "Size":"25 Waist",
-        "Size Category":"Petite",
-        "Inseam Measurement (Inches)":29.0,
-        "Rise Measurement (Inches)":11.0,
-        "Waist Measurement (Inches)":32.0,
-        "Rise":"high rise",
         "Pant Cut":"straight leg",
-        "Condition":"Excellent",
-        "New with Tags":false,
-        "Color":"['Blue']",
-        "Jean Wash":"['dark wash', 'distressed']",
-        "Number Favorites":25,
-        "Material":"['77% Cotton', '21% Polyester', '2% Spandex']",
-        "Pattern":"['solid']",
-        "Accents":"[]",
-        "Tags":[
-            "nan",
-            "nan"
-        ]
-    },
-    {
-        "objectID":140736553,
-        "URL":"https://www.thredup.com/product/women-cotton-uniqlo-jeans-white-jeans/140736553",
-        "Item #":140736553,
-        "Name":"women-cotton-uniqlo-jeans-white-jeans",
-        "Images":[
-            "https://cf-assets-thredup.thredup.com/assets/476342526/retina.jpg",
-            "https://cf-assets-thredup.thredup.com/assets/476342563/retina.jpg"
-        ],
-        "Price":23.99,
-        "Brand":"Uniqlo",
-        "Size":"25 Waist",
-        "Size Category":"Petite",
-        "Inseam Measurement (Inches)":24.0,
-        "Rise Measurement (Inches)":11.25,
-        "Waist Measurement (Inches)":27.5,
-        "Rise":"high rise",
-        "Pant Cut":"boyfriend",
-        "Condition":"Excellent",
-        "New with Tags":false,
-        "Color":"['White']",
-        "Jean Wash":"['light wash']",
-        "Number Favorites":10,
-        "Material":"['88% Cotton', '10% Polyester', '2% Spandex']",
-        "Pattern":"['solid']",
-        "Accents":"['frayed edges', 'fringe & frayed accents']",
-        "Tags":[
-            "nan",
-            "nan",
-            "frayed edges ,  fringe & frayed accents"
-        ]
-    },
-    {
-        "objectID":140341254,
-        "URL":"https://www.thredup.com/product/women-cotton-denim-forum-jeans-blue-jeans/140341254",
-        "Item #":140341254,
-        "Name":"women-cotton-denim-forum-jeans-blue-jeans",
-        "Images":[
-            "https://cf-assets-thredup.thredup.com/assets/474710576/retina.jpg",
-            "https://cf-assets-thredup.thredup.com/assets/474710599/retina.jpg"
-        ],
-        "Price":34.99,
-        "Brand":"Denim Forum",
-        "Size":"25 Waist",
-        "Size Category":"Petite",
-        "Inseam Measurement (Inches)":26.0,
-        "Rise Measurement (Inches)":11.25,
-        "Waist Measurement (Inches)":28.5,
-        "Rise":"high rise",
-        "Pant Cut":"boyfriend",
         "Condition":"Very Good",
         "New with Tags":false,
-        "Color":"['Blue']",
-        "Jean Wash":"['distressed', 'medium wash']",
-        "Number Favorites":6,
-        "Material":"['100% Cotton']",
-        "Pattern":"['solid']",
-        "Accents":"['ripped', 'distressed']",
+        "Color":[
+            "Tan"
+        ],
+        "Jean Wash":[
+            "colored",
+            "light wash"
+        ],
+        "Number Favorites":27,
+        "Material":[
+            "75% Cotton",
+            "23% Polyester",
+            "2% Spandex"
+        ],
+        "Pattern":[
+            "solid"
+        ],
+        "Accents":[],
         "Tags":[
-            "boho",
-            "nan",
-            "ripped ,  distressed"
+            "boho"
+        ],
+        "SellThroughScore":0.340201,
+        "SearchTags":[
+            "women-jeans",
+            "women-jeans-straight-leg",
+            "women-jeans-colored"
         ]
     },
     {
-        "objectID":140263637,
-        "URL":"https://www.thredup.com/product/women-cotton-michael-michael-kors-jeans-blue-jeans/140263637",
-        "Item #":140263637,
-        "Name":"women-cotton-michael-michael-kors-jeans-blue-jeans",
+        "objectID":126737402,
+        "URL":"https://www.thredup.com/product/women-fabric-zara-basic-jeans-blue-jeans/126737402",
+        "Item #":126737402,
+        "Name":"women-fabric-zara-basic-jeans-blue-jeans",
         "Images":[
-            "https://cf-assets-thredup.thredup.com/assets/474558495/retina.jpg",
-            "https://cf-assets-thredup.thredup.com/assets/474558548/retina.jpg"
+            "https://cf-assets-thredup.thredup.com/assets/415084147/retina.jpg",
+            "https://cf-assets-thredup.thredup.com/assets/415084073/retina.jpg"
         ],
-        "Price":21.99,
-        "Brand":"MICHAEL Michael Kors",
-        "Size":" 2",
-        "Size Category":null,
-        "Inseam Measurement (Inches)":30.5,
-        "Rise Measurement (Inches)":7.75,
-        "Waist Measurement (Inches)":28.5,
+        "Price":10.99,
+        "Brand":"Zara Basic",
+        "Size":"6",
+        "Size Category":"Petite",
+        "Inseam Measurement (Inches)":31.0,
+        "Rise Measurement (Inches)":8.25,
+        "Waist Measurement (Inches)":32.5,
         "Rise":"low rise",
-        "Pant Cut":"boyfriend",
-        "Condition":"Excellent",
-        "New with Tags":true,
-        "Color":"['Blue']",
-        "Jean Wash":"['dark wash']",
-        "Number Favorites":4,
-        "Material":"['98% Cotton', '2% Spandex']",
-        "Pattern":"['solid']",
-        "Accents":"['whiskering']",
-        "Tags":[
-            "boho",
-            "nan",
-            "whiskering"
-        ]
-    },
-    {
-        "objectID":140620424,
-        "URL":"https://www.thredup.com/product/women-cotton-lee-jeans-blue-jeans/140620424",
-        "Item #":140620424,
-        "Name":"women-cotton-lee-jeans-blue-jeans",
-        "Images":[
-            "https://cf-assets-thredup.thredup.com/assets/476001451/retina.jpg",
-            "https://cf-assets-thredup.thredup.com/assets/476001475/retina.jpg"
-        ],
-        "Price":15.99,
-        "Brand":"Lee",
-        "Size":" 8",
-        "Size Category":"Petite",
-        "Inseam Measurement (Inches)":26.75,
-        "Rise Measurement (Inches)":12.0,
-        "Waist Measurement (Inches)":32.0,
-        "Rise":"high rise",
-        "Pant Cut":"boyfriend",
-        "Condition":"Excellent",
+        "Pant Cut":"skinny leg",
+        "Condition":"Very Good",
         "New with Tags":false,
-        "Color":"['Blue']",
-        "Jean Wash":"['dark wash']",
-        "Number Favorites":2,
-        "Material":"['99% Cotton', '1% Spandex']",
-        "Pattern":"['solid']",
-        "Accents":"['whiskering']",
+        "Color":[
+            "Blue"
+        ],
+        "Jean Wash":[],
+        "Number Favorites":10,
+        "Material":[
+            "No Fabric Content"
+        ],
+        "Pattern":[
+            "solid"
+        ],
+        "Accents":[
+            "zippers"
+        ],
         "Tags":[
-            "classic",
-            "nan",
-            "whiskering"
+            "zippers"
+        ],
+        "SellThroughScore":0.340761,
+        "SearchTags":[
+            "women-jeans",
+            "women-jeans-skinny"
         ]
     },
     {
-        "objectID":140880831,
-        "URL":"https://www.thredup.com/product/women-cotton-so-slimming-by-chico-s-jeggings-ivory-jeggings/140880831",
-        "Item #":140880831,
-        "Name":"women-cotton-so-slimming-by-chico-s-jeggings-ivory-jeggings",
+        "objectID":133597367,
+        "URL":"https://www.thredup.com/product/women-polyester-gap-jeggings-yellow-jeggings/133597367",
+        "Item #":133597367,
+        "Name":"women-polyester-gap-jeggings-yellow-jeggings",
         "Images":[
-            "https://cf-assets-thredup.thredup.com/assets/476994674/retina.jpg",
-            "https://cf-assets-thredup.thredup.com/assets/476994740/retina.jpg"
+            "https://cf-assets-thredup.thredup.com/assets/444893150/retina.jpg",
+            "https://cf-assets-thredup.thredup.com/assets/444893104/retina.jpg"
         ],
-        "Price":20.99,
-        "Brand":"So Slimming by Chico's",
-        "Size":" Med (1.5)",
+        "Price":16.99,
+        "Brand":"Gap",
+        "Size":"27 Waist",
         "Size Category":"Petite",
-        "Inseam Measurement (Inches)":23.75,
-        "Rise Measurement (Inches)":11.5,
-        "Waist Measurement (Inches)":35.0,
-        "Rise":"high rise",
+        "Inseam Measurement (Inches)":27.25,
+        "Rise Measurement (Inches)":8.5,
+        "Waist Measurement (Inches)":29.0,
+        "Rise":"mid-reg rise",
         "Pant Cut":null,
         "Condition":"Very Good",
         "New with Tags":false,
-        "Color":"['Ivory']",
-        "Jean Wash":"[]",
-        "Number Favorites":3,
-        "Material":"['54% Cotton', '43% Rayon', '3% Spandex']",
-        "Pattern":"[]",
-        "Accents":"[]",
+        "Color":[
+            "Yellow"
+        ],
+        "Jean Wash":[],
+        "Number Favorites":2,
+        "Material":[
+            "13% Polyester",
+            "2% Spandex",
+            "85% Cotton"
+        ],
+        "Pattern":[],
+        "Accents":[],
+        "Tags":[],
+        "SellThroughScore":0.541549,
+        "SearchTags":[
+            "women-jeans",
+            "women-jeans-jeggings"
+        ]
+    },
+    {
+        "objectID":134525602,
+        "URL":"https://www.thredup.com/product/women-cotton-pac-sun-jeans-blue-jeans/134525602",
+        "Item #":134525602,
+        "Name":"women-cotton-pac-sun-jeans-blue-jeans",
+        "Images":[
+            "https://cf-assets-thredup.thredup.com/assets/449376774/retina.jpg",
+            "https://cf-assets-thredup.thredup.com/assets/449376723/retina.jpg"
+        ],
+        "Price":18.99,
+        "Brand":"PacSun",
+        "Size":"24 Waist",
+        "Size Category":"Petite",
+        "Inseam Measurement (Inches)":26.25,
+        "Rise Measurement (Inches)":11.75,
+        "Waist Measurement (Inches)":26.5,
+        "Rise":"high rise",
+        "Pant Cut":"boyfriend",
+        "Condition":"Very Good",
+        "New with Tags":false,
+        "Color":[
+            "Blue"
+        ],
+        "Jean Wash":[
+            "light wash"
+        ],
+        "Number Favorites":37,
+        "Material":[
+            "100% Cotton"
+        ],
+        "Pattern":[
+            "solid"
+        ],
+        "Accents":[],
+        "Tags":[],
+        "SellThroughScore":0.744729,
+        "SearchTags":[
+            "women-jeans",
+            "women-jeans-straight-leg",
+            "women-jeans-boyfriend",
+            "women-jeans-high-waisted"
+        ]
+    },
+    {
+        "objectID":140625853,
+        "URL":"https://www.thredup.com/product/women-cotton-liz-claiborne-jeans-blue-jeans/140625853",
+        "Item #":140625853,
+        "Name":"women-cotton-liz-claiborne-jeans-blue-jeans",
+        "Images":[
+            "https://cf-assets-thredup.thredup.com/assets/476020532/retina.jpg",
+            "https://cf-assets-thredup.thredup.com/assets/476020599/retina.jpg"
+        ],
+        "Price":15.99,
+        "Brand":"Liz Claiborne",
+        "Size":"10",
+        "Size Category":"Petite",
+        "Inseam Measurement (Inches)":30.25,
+        "Rise Measurement (Inches)":9.75,
+        "Waist Measurement (Inches)":28.5,
+        "Rise":"mid-reg rise",
+        "Pant Cut":"boyfriend",
+        "Condition":"Excellent",
+        "New with Tags":true,
+        "Color":[
+            "Blue"
+        ],
+        "Jean Wash":[
+            "dark wash"
+        ],
+        "Number Favorites":4,
+        "Material":[
+            "99% Cotton",
+            "1% Spandex"
+        ],
+        "Pattern":[
+            "solid"
+        ],
+        "Accents":[],
         "Tags":[
-            "nan",
-            "nan"
+            "work"
+        ],
+        "SellThroughScore":0.942577,
+        "SearchTags":[
+            "women-jeans",
+            "women-jeans-straight-leg",
+            "women-jeans-boyfriend",
+            "women-jeans-bootcut"
+        ]
+    },
+    {
+        "objectID":140504574,
+        "URL":"https://www.thredup.com/product/women-cotton-gloria-vanderbilt-jeans-colored-jeans/140504574",
+        "Item #":140504574,
+        "Name":"women-cotton-gloria-vanderbilt-jeans-colored-jeans",
+        "Images":[
+            "https://cf-assets-thredup.thredup.com/assets/475439168/retina.jpg",
+            "https://cf-assets-thredup.thredup.com/assets/475439223/retina.jpg"
+        ],
+        "Price":21.99,
+        "Brand":"Gloria Vanderbilt",
+        "Size":"8",
+        "Size Category":"Petite",
+        "Inseam Measurement (Inches)":32.0,
+        "Rise Measurement (Inches)":11.25,
+        "Waist Measurement (Inches)":34.0,
+        "Rise":"high rise",
+        "Pant Cut":"boyfriend",
+        "Condition":"Very Good",
+        "New with Tags":false,
+        "Color":[
+            "Colored",
+            "Burgundy"
+        ],
+        "Jean Wash":[
+            "colored",
+            "dark wash"
+        ],
+        "Number Favorites":2,
+        "Material":[
+            "97% Cotton",
+            "3% Spandex"
+        ],
+        "Pattern":[
+            "solid"
+        ],
+        "Accents":[],
+        "Tags":[],
+        "SellThroughScore":0.792106,
+        "SearchTags":[
+            "women-jeans",
+            "women-jeans-straight-leg",
+            "women-jeans-boyfriend",
+            "women-jeans-high-waisted",
+            "women-jeans-colored"
+        ]
+    },
+    {
+        "objectID":136243326,
+        "URL":"https://www.thredup.com/product/women-cotton-madewell-jeans-blue-jeans/136243326",
+        "Item #":136243326,
+        "Name":"women-cotton-madewell-jeans-blue-jeans",
+        "Images":[
+            "https://cf-assets-thredup.thredup.com/assets/447855900/retina.jpg",
+            "https://cf-assets-thredup.thredup.com/assets/447855901/retina.jpg"
+        ],
+        "Price":52.99,
+        "Brand":"Madewell",
+        "Size":"30 Waist",
+        "Size Category":"Petite",
+        "Inseam Measurement (Inches)":27.5,
+        "Rise Measurement (Inches)":14.75,
+        "Waist Measurement (Inches)":37.0,
+        "Rise":"high rise",
+        "Pant Cut":"boyfriend",
+        "Condition":"Very Good",
+        "New with Tags":false,
+        "Color":[
+            "Blue"
+        ],
+        "Jean Wash":[
+            "medium wash"
+        ],
+        "Number Favorites":19,
+        "Material":[
+            "100% Cotton"
+        ],
+        "Pattern":[
+            "solid"
+        ],
+        "Accents":[
+            "whiskering"
+        ],
+        "Tags":[
+            "boho",
+            "whiskering"
+        ],
+        "SellThroughScore":0.737346,
+        "SearchTags":[
+            "women-jeans",
+            "women-jeans-boyfriend",
+            "women-jeans-bootcut",
+            "women-jeans-high-waisted"
         ]
     }
 ]
