@@ -1,6 +1,6 @@
 # Product Search Database
 
-![Owner Avatar](https://www.gstatic.com/images/branding/product/1x/google_cloud_search_512dp.png | width=200)
+![Owner Avatar](https://www.gstatic.com/images/branding/product/1x/google_cloud_search_512dp.png=250x)
 
 
 ## Table of Contents
