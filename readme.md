@@ -36,6 +36,19 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
 
-```bash
+```
 git clone https://github.com/faisal-fida/thredup-Scraper
+```
+
+2. Install the required Python dependencies using Pipenv:
+
+```
+pipenv install
+```
+
+3. Set up any necessary configurations and environment variables.
+
+4. Run the main script:
+```
+python main.py
 ```
