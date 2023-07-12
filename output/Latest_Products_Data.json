@@ -1,81 +1,80 @@
 [
     {
-        "objectID":138338428,
-        "URL":"https://www.thredup.com/product/women-cotton-good-american-jeans-blue-jeans/138338428",
-        "Item #":138338428,
-        "Name":"women-cotton-good-american-jeans-blue-jeans",
+        "URL":"https://www.thredup.com/product/women-spandex-rock-republic-jeans-blue-jeans/143844588",
+        "ItemID":143844588,
+        "Name":"women-spandex-rock-republic-jeans-blue-jeans",
         "Images":[
-            "https://cf-assets-thredup.thredup.com/assets/466335633/retina.jpg",
-            "https://cf-assets-thredup.thredup.com/assets/466335693/retina.jpg"
+            "https://cf-assets-thredup.thredup.com/assets/442186400/retina.jpg",
+            "https://cf-assets-thredup.thredup.com/assets/442186428/retina.jpg"
         ],
-        "Price":60.99,
-        "Brand":"Good American",
-        "Size":"00",
-        "Size Category":null,
-        "Inseam Measurement (Inches)":31,
-        "Rise Measurement (Inches)":10.75,
-        "Waist Measurement (Inches)":25.0,
-        "Rise":"high rise",
-        "Pant Cut":"boyfriend",
-        "Condition":"Excellent",
-        "New with Tags":false,
+        "Price":"17.99",
+        "Brand":"Rock & Republic",
+        "Size":"10",
+        "SizeCategory":[
+            "women"
+        ],
+        "InseamMeasurementInches":27,
+        "RiseMeasurementInches":10,
+        "WaistMeasurementInches":33.5,
+        "Rise":"mid-reg rise",
+        "PantCut":"skinny leg",
+        "Condition":"Very Good",
+        "NewWithTags":false,
         "Color":[
             "Blue"
         ],
-        "Jean Wash":[
-            "dark wash"
+        "JeanWash":[
+            "dark wash",
+            "medium wash"
         ],
-        "Number Favorites":45,
+        "NumberFavorites":0,
         "Material":[
-            "91% Cotton",
-            "5% Polyester",
-            "4% Elastane"
+            "3% Spandex",
+            "97% Cotton"
         ],
         "Pattern":[
             "solid"
         ],
         "Accents":[],
-        "Tags":[
-            "boho"
-        ],
-        "SellThroughScore":0.840971,
+        "Tags":[],
+        "SellThroughScore":0.847439,
         "SearchTags":[
             "women-jeans",
-            "women-jeans-boyfriend",
-            "women-jeans-flare",
-            "women-jeans-high-waisted"
+            "women-jeans-skinny"
         ]
     },
     {
-        "objectID":133810209,
-        "URL":"https://www.thredup.com/product/women-cotton-lucky-brand-jeans-blue-jeans/133810209",
-        "Item #":133810209,
+        "URL":"https://www.thredup.com/product/women-cotton-lucky-brand-jeans-blue-jeans/143844148",
+        "ItemID":143844148,
         "Name":"women-cotton-lucky-brand-jeans-blue-jeans",
         "Images":[
-            "https://cf-assets-thredup.thredup.com/assets/441413265/retina.jpg",
-            "https://cf-assets-thredup.thredup.com/assets/441413313/retina.jpg"
+            "https://cf-assets-thredup.thredup.com/assets/458059293/retina.jpg",
+            "https://cf-assets-thredup.thredup.com/assets/458059318/retina.jpg"
         ],
-        "Price":27.99,
+        "Price":"30.99",
         "Brand":"Lucky Brand",
-        "Size":"4",
-        "Size Category":"Petite",
-        "Inseam Measurement (Inches)":23,
-        "Rise Measurement (Inches)":6.25,
-        "Waist Measurement (Inches)":28.5,
-        "Rise":"low rise",
-        "Pant Cut":"straight leg",
+        "Size":"00",
+        "SizeCategory":[
+            "juniors",
+            "women"
+        ],
+        "InseamMeasurementInches":27.5,
+        "RiseMeasurementInches":8.5,
+        "WaistMeasurementInches":27,
+        "Rise":"mid-reg rise",
+        "PantCut":"skinny leg",
         "Condition":"Very Good",
-        "New with Tags":false,
+        "NewWithTags":false,
         "Color":[
             "Blue"
         ],
-        "Jean Wash":[
+        "JeanWash":[
             "dark wash"
         ],
-        "Number Favorites":16,
+        "NumberFavorites":0,
         "Material":[
-            "89% Cotton",
-            "9% Polyester",
+            "92% Cotton",
+            "6% Elastoester",
             "2% Elastane"
         ],
         "Pattern":[
@@ -88,11 +87,420 @@
             "boho",
             "whiskering"
         ],
-        "SellThroughScore":0.37332,
+        "SellThroughScore":0.648956,
+        "SearchTags":[
+            "women-jeans",
+            "women-jeans-skinny"
+        ]
+    },
+    {
+        "URL":"https://www.thredup.com/product/women-fabric-lucky-brand-jeans-blue-jeans/143844127",
+        "ItemID":143844127,
+        "Name":"women-fabric-lucky-brand-jeans-blue-jeans",
+        "Images":[
+            "https://cf-assets-thredup.thredup.com/assets/456189702/retina.jpg",
+            "https://cf-assets-thredup.thredup.com/assets/456189751/retina.jpg"
+        ],
+        "Price":"29.99",
+        "Brand":"Lucky Brand",
+        "Size":"00",
+        "SizeCategory":[
+            "juniors",
+            "women"
+        ],
+        "InseamMeasurementInches":29,
+        "RiseMeasurementInches":7.25,
+        "WaistMeasurementInches":31,
+        "Rise":"low rise",
+        "PantCut":"skinny leg",
+        "Condition":"Very Good",
+        "NewWithTags":false,
+        "Color":[
+            "Blue"
+        ],
+        "JeanWash":[
+            "dark wash",
+            "distressed"
+        ],
+        "NumberFavorites":0,
+        "Material":[
+            "No Fabric Content"
+        ],
+        "Pattern":[
+            "solid"
+        ],
+        "Accents":[
+            "ripped",
+            "distressed"
+        ],
+        "Tags":[
+            "boho",
+            "ripped",
+            "distressed"
+        ],
+        "SellThroughScore":0.788689,
+        "SearchTags":[
+            "women-jeans",
+            "women-jeans-skinny",
+            "women-jeans-distressed",
+            "women-jeans-ripped"
+        ]
+    },
+    {
+        "URL":"https://www.thredup.com/product/women-cotton-madewell-jeans-blue-jeans/143843852",
+        "ItemID":143843852,
+        "Name":"women-cotton-madewell-jeans-blue-jeans",
+        "Images":[
+            "https://cf-assets-thredup.thredup.com/assets/477606470/retina.jpg",
+            "https://cf-assets-thredup.thredup.com/assets/477606510/retina.jpg"
+        ],
+        "Price":"31.99",
+        "Brand":"Madewell",
+        "Size":"28 Waist",
+        "SizeCategory":[
+            "juniors",
+            "women"
+        ],
+        "InseamMeasurementInches":28,
+        "RiseMeasurementInches":11,
+        "WaistMeasurementInches":34,
+        "Rise":"high rise",
+        "PantCut":"boyfriend",
+        "Condition":"Excellent",
+        "NewWithTags":true,
+        "Color":[
+            "Blue"
+        ],
+        "JeanWash":[
+            "distressed",
+            "medium wash"
+        ],
+        "NumberFavorites":0,
+        "Material":[
+            "96% Cotton",
+            "3% Other",
+            "1% Elastane"
+        ],
+        "Pattern":[
+            "solid"
+        ],
+        "Accents":[
+            "ripped",
+            "distressed"
+        ],
+        "Tags":[
+            "classic",
+            "ripped",
+            "distressed"
+        ],
+        "SellThroughScore":0.828812,
+        "SearchTags":[
+            "women-jeans",
+            "women-jeans-straight-leg",
+            "women-jeans-boyfriend",
+            "women-jeans-distressed",
+            "women-jeans-ripped",
+            "women-jeans-high-waisted"
+        ]
+    },
+    {
+        "URL":"https://www.thredup.com/product/women-spandex-lucky-brand-jeans-blue-jeans/143843289",
+        "ItemID":143843289,
+        "Name":"women-spandex-lucky-brand-jeans-blue-jeans",
+        "Images":[
+            "https://cf-assets-thredup.thredup.com/assets/468644790/retina.jpg",
+            "https://cf-assets-thredup.thredup.com/assets/468644848/retina.jpg"
+        ],
+        "Price":"51.99",
+        "Brand":"Lucky Brand",
+        "Size":"26 Waist",
+        "SizeCategory":[
+            "juniors",
+            "women"
+        ],
+        "InseamMeasurementInches":34.25,
+        "RiseMeasurementInches":6.75,
+        "WaistMeasurementInches":28,
+        "Rise":"low rise",
+        "PantCut":"boyfriend",
+        "Condition":"Very Good",
+        "NewWithTags":false,
+        "Color":[
+            "Blue"
+        ],
+        "JeanWash":[
+            "light wash"
+        ],
+        "NumberFavorites":0,
+        "Material":[
+            "1% Spandex",
+            "99% Cotton"
+        ],
+        "Pattern":[
+            "solid"
+        ],
+        "Accents":[
+            "whiskering"
+        ],
+        "Tags":[
+            "boho",
+            "whiskering"
+        ],
+        "SellThroughScore":0.80594,
+        "SearchTags":[
+            "women-jeans",
+            "women-jeans-boyfriend",
+            "women-jeans-flare"
+        ]
+    },
+    {
+        "URL":"https://www.thredup.com/product/women-cotton-true-religion-jeans-blue-jeans/143843214",
+        "ItemID":143843214,
+        "Name":"women-cotton-true-religion-jeans-blue-jeans",
+        "Images":[
+            "https://cf-assets-thredup.thredup.com/assets/466692715/retina.jpg",
+            "https://cf-assets-thredup.thredup.com/assets/466692773/retina.jpg"
+        ],
+        "Price":"42.99",
+        "Brand":"True Religion",
+        "Size":"29 Waist",
+        "SizeCategory":[
+            "women",
+            "premium"
+        ],
+        "InseamMeasurementInches":28.75,
+        "RiseMeasurementInches":8.25,
+        "WaistMeasurementInches":33,
+        "Rise":"low rise",
+        "PantCut":"boyfriend",
+        "Condition":"Very Good",
+        "NewWithTags":false,
+        "Color":[
+            "Blue"
+        ],
+        "JeanWash":[
+            "dark wash"
+        ],
+        "NumberFavorites":0,
+        "Material":[
+            "99% Cotton",
+            "1% Elastane"
+        ],
+        "Pattern":[
+            "solid"
+        ],
+        "Accents":[],
+        "Tags":[
+            "boho"
+        ],
+        "SellThroughScore":0.27945,
+        "SearchTags":[
+            "women-jeans",
+            "women-jeans-boyfriend",
+            "women-jeans-flare"
+        ]
+    },
+    {
+        "URL":"https://www.thredup.com/product/women-cotton-paige-jeans-gray-jeans/143842959",
+        "ItemID":143842959,
+        "Name":"women-cotton-paige-jeans-gray-jeans",
+        "Images":[
+            "https://cf-assets-thredup.thredup.com/assets/398133932/retina.jpg",
+            "https://cf-assets-thredup.thredup.com/assets/398133976/retina.jpg"
+        ],
+        "Price":"33.99",
+        "Brand":"Paige",
+        "Size":"28 Waist",
+        "SizeCategory":[
+            "women",
+            "premium"
+        ],
+        "InseamMeasurementInches":31.25,
+        "RiseMeasurementInches":8.25,
+        "WaistMeasurementInches":35.5,
+        "Rise":"low rise",
+        "PantCut":"boyfriend",
+        "Condition":"Very Good",
+        "NewWithTags":false,
+        "Color":[
+            "Gray"
+        ],
+        "JeanWash":[
+            "dark wash",
+            "distressed"
+        ],
+        "NumberFavorites":0,
+        "Material":[
+            "98% Cotton",
+            "2% Spandex"
+        ],
+        "Pattern":[
+            "solid"
+        ],
+        "Accents":[
+            "ripped",
+            "distressed"
+        ],
+        "Tags":[
+            "boho",
+            "ripped",
+            "distressed"
+        ],
+        "SellThroughScore":0.0639811,
+        "SearchTags":[
+            "women-jeans",
+            "women-jeans-straight-leg",
+            "women-jeans-boyfriend",
+            "women-jeans-distressed",
+            "women-jeans-ripped"
+        ]
+    },
+    {
+        "URL":"https://www.thredup.com/product/women-tencel-hudson-jeans-jeans-gray-jeans/143842918",
+        "ItemID":143842918,
+        "Name":"women-tencel-hudson-jeans-jeans-gray-jeans",
+        "Images":[
+            "https://cf-assets-thredup.thredup.com/assets/411456356/retina.jpg",
+            "https://cf-assets-thredup.thredup.com/assets/411456385/retina.jpg"
+        ],
+        "Price":"16.99",
+        "Brand":"Hudson Jeans",
+        "Size":"28 Waist",
+        "SizeCategory":[
+            "women",
+            "premium"
+        ],
+        "InseamMeasurementInches":23.5,
+        "RiseMeasurementInches":9.25,
+        "WaistMeasurementInches":33.5,
+        "Rise":"mid-reg rise",
+        "PantCut":"skinny leg",
+        "Condition":"Very Good",
+        "NewWithTags":false,
+        "Color":[
+            "Gray"
+        ],
+        "JeanWash":[
+            "dark wash"
+        ],
+        "NumberFavorites":0,
+        "Material":[
+            "43% Tencel",
+            "33% Cotton",
+            "22% Viscose",
+            "2% Elastane"
+        ],
+        "Pattern":[
+            "solid"
+        ],
+        "Accents":[],
+        "Tags":[],
+        "SellThroughScore":0.0632467,
         "SearchTags":[
             "women-jeans",
             "women-jeans-capri",
-            "women-jeans-straight-leg"
+            "women-jeans-skinny"
+        ]
+    },
+    {
+        "URL":"https://www.thredup.com/product/women-cotton-7-for-all-mankind-jeans-blue-jeans/143842867",
+        "ItemID":143842867,
+        "Name":"women-cotton-7-for-all-mankind-jeans-blue-jeans",
+        "Images":[
+            "https://cf-assets-thredup.thredup.com/assets/450458438/retina.jpg",
+            "https://cf-assets-thredup.thredup.com/assets/450458465/retina.jpg"
+        ],
+        "Price":"22.99",
+        "Brand":"7 For All Mankind",
+        "Size":"26 Waist",
+        "SizeCategory":[
+            "women",
+            "premium"
+        ],
+        "InseamMeasurementInches":30.5,
+        "RiseMeasurementInches":9.75,
+        "WaistMeasurementInches":30,
+        "Rise":"mid-reg rise",
+        "PantCut":"boyfriend",
+        "Condition":"Very Good",
+        "NewWithTags":false,
+        "Color":[
+            "Blue"
+        ],
+        "JeanWash":[
+            "medium wash"
+        ],
+        "NumberFavorites":0,
+        "Material":[
+            "90% Cotton",
+            "8% Polyester",
+            "2% Spandex"
+        ],
+        "Pattern":[
+            "solid"
+        ],
+        "Accents":[
+            "whiskering"
+        ],
+        "Tags":[
+            "boho",
+            "whiskering"
+        ],
+        "SellThroughScore":0.551922,
+        "SearchTags":[
+            "women-jeans",
+            "women-jeans-straight-leg",
+            "women-jeans-boyfriend"
+        ]
+    },
+    {
+        "URL":"https://www.thredup.com/product/women-fabric-lucky-brand-jeans-blue-jeans/143842812",
+        "ItemID":143842812,
+        "Name":"women-fabric-lucky-brand-jeans-blue-jeans",
+        "Images":[
+            "https://cf-assets-thredup.thredup.com/assets/445795498/retina.jpg",
+            "https://cf-assets-thredup.thredup.com/assets/445795526/retina.jpg"
+        ],
+        "Price":"31.99",
+        "Brand":"Lucky Brand",
+        "Size":"28 Waist",
+        "SizeCategory":[
+            "juniors",
+            "women"
+        ],
+        "InseamMeasurementInches":30.5,
+        "RiseMeasurementInches":11,
+        "WaistMeasurementInches":33.5,
+        "Rise":"high rise",
+        "PantCut":"boyfriend",
+        "Condition":"Excellent",
+        "NewWithTags":false,
+        "Color":[
+            "Blue"
+        ],
+        "JeanWash":[
+            "dark wash"
+        ],
+        "NumberFavorites":0,
+        "Material":[
+            "No Fabric Content"
+        ],
+        "Pattern":[
+            "solid"
+        ],
+        "Accents":[
+            "whiskering"
+        ],
+        "Tags":[
+            "boho",
+            "whiskering"
+        ],
+        "SellThroughScore":0.136721,
+        "SearchTags":[
+            "women-jeans",
+            "women-jeans-straight-leg",
+            "women-jeans-boyfriend",
+            "women-jeans-high-waisted"
         ]
     }
 ]

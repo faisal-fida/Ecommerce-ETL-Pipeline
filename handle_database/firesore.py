@@ -1,16 +1,22 @@
-import firebase_admin
-from firebase_admin import credentials
-from firebase_admin import firestore
 
-cred = credentials.Certificate('path/to/serviceAccount.json')
-firebase_admin.initialize_app(cred)
 
-db = firestore.client()
+def upload_data(db, dataJson):
+    print("Uploading Data to Firestore DB.")
+    for i in dataJson:
+        i["Platform"] = "thredup"
+        db.collection('products').document(f'thredup_{i["ItemID"]}').set(i)
+    print("Data Uploaded.")
+    
+def retrieve_data(db):
+    print("Retrieving Data from Firestore DB.")
+    docs = db.collection('products').where('Platform', '==', 'thredup').select(['ItemID', 'Price']).get()
+    docs = [doc.to_dict() for doc in docs]
+    return docs
 
-batch = db.batch()
+def delete_data(db, document):
+    # Get reference to the document you want to delete
+    doc_ref = db.collection('products').document(document)
 
-for i in range(100):
-    product_ref = db.collection('products').document(f'thredup_{i}')
-    batch.set(product_ref, {})
-
-batch.commit()
+    # Delete the document
+    doc_ref.delete()
+    print("Deleted", document)

@@ -1,0 +1,33 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+numpy = "==1.23.4"
+algoliasearch = "==3.0.0"
+requests = "==2.28.2"
+wheel = "*"
+pandas = "==1.5.1"
+google-cloud-storage = "*"
+google-auth = "*"
+google-cloud-bigquery = "*"
+google-cloud-core = "*"
+google-crc32c = "*"
+google-resumable-media = "*"
+googleapis-common-protos = "*"
+google-api-python-client = "*"
+google-auth-oauthlib = "*"
+requests-oauth2client = "*"
+flask = "*"
+gunicorn = "*"
+aiohttp = "*"
+asyncio = "*"
+loguru = "*"
+firebase-admin = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.8"
+python_full_version = "3.8.3"

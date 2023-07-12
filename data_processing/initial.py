@@ -1,4 +1,5 @@
-data_headers_payloads = [{
+data_headers_payloads = [
+    {
     "operationName": "itemByItemNumber",
     "variables": {
         "pageContext": "none",
