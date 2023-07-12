@@ -1,6 +1,6 @@
 # Product Search Database
 
-![Owner Avatar](https://github.com/faisal-fida/thredup-Scraper/blob/main/owner_avatar.png)
+![Owner Avatar](https://www.gstatic.com/images/branding/product/1x/google_cloud_search_512dp.png)
 
 ## Table of Contents
 
