@@ -3,16 +3,20 @@ In this project, I developed a robust system to scrape data from an ecommerce we
 
 
 ## Architecture 🚀
+
+
+
 <p align="center">Part 1: Web Scraping Architecture</p>
 
-![1](https://github.com/faisal-fida/ETL-Pipeline-ThredUp-using-Algolia-and-Firestore/assets/69955157/e0f22cba-5ad4-4f96-b53f-679b4e19b303)
+![1](https://github.com/faisal-fida/Ecommerce-ETL-Pipeline/assets/69955157/911443a0-ed7f-4dbf-8853-7abe35366674)
+
 <p align="center">Part 2: Data Processing and Validation Workflow</p>
 
-![2](https://github.com/faisal-fida/ETL-Pipeline-ThredUp-using-Algolia-and-Firestore/assets/69955157/90b2245e-adea-4709-bbd2-35711725d5b3)
+![2](https://github.com/faisal-fida/Ecommerce-ETL-Pipeline/assets/69955157/fc4477e8-8dfc-4f10-b18f-d056ec942e93)
 
 <p align="center">Part 3: Data Pipeline Workflow</p>
 
-![3](https://github.com/faisal-fida/Ecommerce-ETL-Pipeline/assets/69955157/52bb0278-b5ae-46f9-ae6d-2c07d34d6f58)
+![3](https://github.com/faisal-fida/Ecommerce-ETL-Pipeline/assets/69955157/38a8b3c2-538c-4afd-8775-b402d38c3d40)
 
 
 ## Project Structure
