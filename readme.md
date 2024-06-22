@@ -1,11 +1,11 @@
-# Thredup ETL Pipeline
+# Thredup ETL Pipeline 
 In this project, I developed a robust system to scrape data from an ecommerce website [Thredup](https://www.thredup.com/), process it for quality, and integrate it into a mobile application for efficient searching. It utilizes various technologies such as Python for web scraping, Pandas for data preprocessing, Algolia for indexing and search capabilities, Google Cloud Firestore for data storage, and Google Cloud Run with Kubernetes for deployment and orchestration.
 
 
-## Architecture
-<center>Part 1: Web Scraping Architecture</center>
+## Architecture 🚀
+<p align="center">Part 1: Web Scraping Architecture</p>
 ![1](https://github.com/faisal-fida/ETL-Pipeline-ThredUp-using-Algolia-and-Firestore/assets/69955157/e0f22cba-5ad4-4f96-b53f-679b4e19b303)
-<center>Part 2: Data Processing and Validation Workflow</center>
+<p align="center">Part 2: Data Processing and Validation Workflow</p>
 ![2](https://github.com/faisal-fida/ETL-Pipeline-ThredUp-using-Algolia-and-Firestore/assets/69955157/90b2245e-adea-4709-bbd2-35711725d5b3)
 
 
