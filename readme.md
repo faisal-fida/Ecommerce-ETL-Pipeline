@@ -1,6 +1,7 @@
 # Product Search Database
 
-![diagram-export-6-22-2024-9_14_24-PM](https://github.com/faisal-fida/ETL-Pipeline-ThredUp-using-Algolia-and-Firestore/assets/69955157/1cbca455-818a-41a5-8dc5-cd5c9d5cc91d)
+![diagram-export-6-22-2024-9_25_25-PM](https://github.com/faisal-fida/ETL-Pipeline-ThredUp-using-Algolia-and-Firestore/assets/69955157/7d2dade5-65ea-486c-acb1-c337663ef26c)
+
 
 
 ## Table of Contents
