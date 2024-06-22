@@ -1,4 +1,4 @@
-# Product Search Database
+# Part 1: Web Scraping Architecture
 
 ![diagram-export-6-22-2024-9_25_25-PM](https://github.com/faisal-fida/ETL-Pipeline-ThredUp-using-Algolia-and-Firestore/assets/69955157/7d2dade5-65ea-486c-acb1-c337663ef26c)
 
