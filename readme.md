@@ -1,7 +1,7 @@
 # Product Search Database
 
+![diagram-export-6-22-2024-9_15_20-PM](https://github.com/faisal-fida/ETL-Pipeline-ThredUp-using-Algolia-and-Firestore/assets/69955157/cdeb5367-9980-4a3d-acc3-f9ba3c22f25c)
 
-<img class="img-fluid" src="https://www.gstatic.com/images/branding/product/1x/google_cloud_search_512dp.png" width="120">
 
 
 ## Table of Contents
@@ -15,7 +15,8 @@
 The **Product Search Database** is a data processing and scraping project aimed at creating a database of product listings for efficient search and retrieval. The project utilizes web scraping techniques to extract product data from an external website.
 
 ### Docker Integration
-Docker is utilized to containerize the ETL pipeline and ensure consistent and reliable execution across different environments. The Dockerfile included in the repository defines the necessary configuration for building the Docker image. The .dockerignore file specifies which files and directories should be excluded during the Docker image build process. The run_image.py script can be used to run the Docker image once it is built.
+Docker is utilized to containerize the ETL pipeline and ensure consistent and reliable execution across different environments. The Dockerfile included in the repository defines the necessary configuration for 
+building the Docker image. The .dockerignore file specifies which files and directories should be excluded during the Docker image build process. The run_image.py script can be used to run the Docker image once it is built.
 
 ### ETL Pipeline
 The ETL pipeline consists of several components, including data processing, database handling, and Algolia database integration. The main.py script serves as the entry point for the pipeline and orchestrates the execution of various modules and scripts within the project. The data_processing directory contains scripts responsible for data processing and cleaning, while the handle_database directory includes scripts for handling the database and data uploading.
