@@ -4,8 +4,10 @@ In this project, I developed a robust system to scrape data from an ecommerce we
 
 ## Architecture 🚀
 <p align="center">Part 1: Web Scraping Architecture</p>
+
 ![1](https://github.com/faisal-fida/ETL-Pipeline-ThredUp-using-Algolia-and-Firestore/assets/69955157/e0f22cba-5ad4-4f96-b53f-679b4e19b303)
 <p align="center">Part 2: Data Processing and Validation Workflow</p>
+
 ![2](https://github.com/faisal-fida/ETL-Pipeline-ThredUp-using-Algolia-and-Firestore/assets/69955157/90b2245e-adea-4709-bbd2-35711725d5b3)
 
 
