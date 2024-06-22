@@ -10,6 +10,10 @@ In this project, I developed a robust system to scrape data from an ecommerce we
 
 ![2](https://github.com/faisal-fida/ETL-Pipeline-ThredUp-using-Algolia-and-Firestore/assets/69955157/90b2245e-adea-4709-bbd2-35711725d5b3)
 
+<p align="center">Part 3: Data Pipeline Workflow</p>
+
+![3](https://github.com/faisal-fida/Ecommerce-ETL-Pipeline/assets/69955157/52bb0278-b5ae-46f9-ae6d-2c07d34d6f58)
+
 
 ## Project Structure
 
