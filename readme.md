@@ -1,5 +1,5 @@
 # Ecommerce Mobile Search Pipeline
-In this project, I developed a robust system to scrape data from an ecommerce website [Thredup](https://www.thredup.com/), process it for quality, and integrate it into a mobile application for efficient searching. It utilizes various technologies such as Python for web scraping, Pandas for data preprocessing, Algolia for indexing and search capabilities, Google Cloud Firestore for data storage, and Google Cloud Run with Kubernetes for deployment and orchestration.
+In this project, I developed a robust system to scrape data from an ecommerce website [Thredup](https://www.thredup.com/), process it for quality, and integrate it into a mobile application for efficient searching. It utilizes various technologies such as Python for web scraping, Pandas for data preprocessing, Algolia for indexing and search capabilities, Google Cloud Firestore for data storage, and Google Cloud Run with Docker for deployment.
 
 
 ## Architecture 🚀
